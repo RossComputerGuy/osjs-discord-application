@@ -1,0 +1,18 @@
+{
+  "type": "application",
+  "name": "Discord",
+  "category": "network",
+  "icon": "icon.png",
+  "singleton": true,
+  "server": "server.js",
+  "title": {
+    "en_EN": "Discord"
+  },
+  "description": {
+    "en_EN": "Discord"
+  },
+  "files": [
+    "main.js",
+    "main.css"
+  ]
+}
